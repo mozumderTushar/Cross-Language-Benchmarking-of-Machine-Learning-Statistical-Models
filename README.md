@@ -1,7 +1,7 @@
 # 📊 Cross-Language Benchmarking of Machine Learning & Statistical Models
 
 **Capstone Project – Master of Data Science, University of Canberra**  
-**Sponsor:** Prof. Julio Romero | **Team:** Group 25 (5 Members)
+**Sponsor:** Prof. Julio Romero | **Team:** Group 
 
 ---
 
@@ -105,6 +105,10 @@ We measured each model using:
 | **C++** | Fastest execution, efficient memory | Verbose implementation | Performance-critical ML in production |
 
 ---
+
+## 👥 Authors
+- Md Mayen Uddin Mozumder Tushar (Research & Analysis, R & Rust Implementation, KPI Design)
+- Vibhore Singh, Ishtiaq Chowdhury, Hasan Shariar Chowdhury, Rahul Kisan Dabilkar
 
 
 
