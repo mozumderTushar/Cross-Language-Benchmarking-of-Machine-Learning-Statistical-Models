@@ -1,5 +1,3 @@
-![Poster](Poster.png)
-
 # 📊 Cross-Language Benchmarking of Machine Learning & Statistical Models
 
 **Capstone Project – Master of Data Science, University of Canberra**  
@@ -87,6 +85,8 @@ We measured each model using:
 - Julia slightly outperformed Rust in accuracy.
 
 ---
+
+![Poster](Poster.png)
 
 ### **3️⃣ Statistical Analysis – Consistency Across Languages**
 
