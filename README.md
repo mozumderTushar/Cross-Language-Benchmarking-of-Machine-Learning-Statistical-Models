@@ -56,9 +56,6 @@ We measured each model using:
 | Rust     | 0.72     | 0.72      | 0.69   | 0.71     | 0.75        | 0.25           | ⚡ Fastest |
 | C++      | 0.78     | 0.74      | 0.58   | 0.65     | 0.89        | 0.21           | ⚡ Fastest |
 
-![Logistic Regression - Accuracy](results/Logistic_Regression_Accuracy.png)
-![Logistic Regression - Precision](results/Logistic_Regression_Precision.png)
-![Logistic Regression - Recall](results/Logistic_Regression_Recall.png)
 
 **Observation:**  
 - Julia achieved **highest accuracy (0.81)**.  
@@ -77,9 +74,6 @@ We measured each model using:
 | Rust     | 0.73     | 0.73      | 0.69   | 0.71     | 0.77        | 0.25 |
 | C++      | 0.71     | 0.58      | 0.63   | 0.60     | 0.75        | 0.25 |
 
-![SVM - Accuracy](results/SVM_Accuracy.png)
-![SVM - Precision](results/SVM_Precision.png)
-![SVM - Recall](results/SVM_Recall.png)
 
 **Observation:**  
 - R’s SVM had **highest precision (0.93)**.  
@@ -88,7 +82,6 @@ We measured each model using:
 
 ---
 
-![Poster](Poster.png)
 
 ### **3️⃣ Statistical Analysis – Consistency Across Languages**
 
@@ -109,6 +102,9 @@ We measured each model using:
 | **C++** | Fastest execution, efficient memory | Verbose implementation | Performance-critical ML in production |
 
 ---
+
+## Poster
+![Poster](Poster.png)
 
 ## 👥 Authors
 - Md Mayen Uddin Mozumder Tushar (Research & Analysis, R & Rust Implementation, KPI Design)
