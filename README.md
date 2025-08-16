@@ -1,3 +1,5 @@
+![Capstone](capstone.png)
+
 # 📊 Cross-Language Benchmarking of Machine Learning & Statistical Models
 
 **Capstone Project – Master of Data Science, University of Canberra**  
